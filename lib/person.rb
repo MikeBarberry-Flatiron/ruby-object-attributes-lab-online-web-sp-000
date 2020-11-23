@@ -18,3 +18,4 @@ end
 
 joe = Person.new
 joe.job = "tailor"
+puts joe.job
