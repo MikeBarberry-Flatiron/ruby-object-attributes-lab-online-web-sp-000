@@ -13,5 +13,8 @@ class Person
 
   def job
     @job
-  end 
+  end
 end
+
+joe = Person.new
+joe.job = "tailor"
